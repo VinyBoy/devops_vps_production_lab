@@ -62,16 +62,6 @@ Documenter la mise en place d’un VPS Linux sécurisé et exploitable, capable 
 
 ### Configuration du VPS
 
-- Installation de git sur le serveur
-- git clone de ce repo
+[Premiere configuration sécurisée du VPS](docs/config_VPS.md)
 
-**Commandes utiles**
 
-```
-	- sudo apt update && sudo apt upgrade
-	- hostnamectl
-	- uname -a
-	- id
-	- ssh
-
-```
