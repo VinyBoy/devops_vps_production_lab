@@ -50,3 +50,5 @@ main() {
     configure_fail2ban
     log "Initialisation terminée"
 }
+
+main()
