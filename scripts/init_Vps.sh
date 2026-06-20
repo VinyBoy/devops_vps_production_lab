@@ -51,4 +51,4 @@ main() {
     log "Initialisation terminée"
 }
 
-main()
+main
