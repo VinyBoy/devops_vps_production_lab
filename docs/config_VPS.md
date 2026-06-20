@@ -1,8 +1,10 @@
 ### Configuration du VPS
 
 - Installation de git sur le serveur
+- [Configuration du user](/docs/config_user.md)
+- [Connecter le Vps a github avec cle SSH](/docs/config_git.md)
 - git clone de ce repo
-- [Utilisation du script d'installation de base en shell](../scripts/init_Vps.)
+	- [Utilisation du script d'installation de base en shell](../scripts/init_Vps.)
 
 **Commandes utiles**
 
