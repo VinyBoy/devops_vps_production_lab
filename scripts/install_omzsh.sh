@@ -77,6 +77,8 @@ main() {
     change_default_shell
 
     log "Initialisation terminée"
+
+	exec zsh
 }
 
 main
